@@ -1,0 +1,13 @@
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\bin\Debug\Guna.UI.dll
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\obj\Debug\Notepad.csproj.CopyComplete
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Ahmad Fraz\source\repos\notepad\Notepad\Notepad\obj\Debug\Notepad.notePadForm.resources
